@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm AloeR</h1>
 <h3 align="center">A discord developer and moderator</h3>
+<h3 align="center">Career Stats:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloer7768&label=Profile%20views&color=0e75b6&style=flat" alt="aloer7768" /> </p>
 
