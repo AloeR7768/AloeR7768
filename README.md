@@ -1,5 +1,12 @@
 <h3>EzayHost</h3>
-<iframe src="https://discord.com/widget?id=1044250445675237417&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+	new Crate({		server: '1104352842594136084', // Halcyon Universe
+		channel: '1104653726486106252' // #💬・general-chat
+	})
+</script>
+
+
 
 
   
